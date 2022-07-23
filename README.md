@@ -7,9 +7,14 @@ Tentei recriar a tela de login - League of Legends (Riot Games) e deixar o mais 
 
 <h1 align="center"> <strong>Login Screen - League of Legends</strong> </h1>
 
-<h3> <strong>Abstract</strong> </h3>
+<h3 align="left"> <strong>Abstract</strong> </h3>
 <p align="left">
 I tried to recreate the login screen - League of Legends (Riot Games) and make it as similar as possible. It was a lot of fun and I learned a lot of new things as I was doing this project.
+</p>
+
+<h3 align="left"> <strong>Git Pages</strong> </h3>
+<p align="left">
+Link: https://josluc.github.io/login-screen-lol/login-screen.html
 </p>
 
 <h3 align="left"> <strong>Languages and Tools:</strong> </h3>
